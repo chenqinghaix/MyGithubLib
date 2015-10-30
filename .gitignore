@@ -1,0 +1,44 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.crf
+*.d
+*.manifest
+*.dep
+*.log
+.DS_Store
+Thumbs.db
+~$*
+# Precompiled Headers
+*.gch
+*.pch
+*.ncb
+*.exp
+*.user
+*.idb
+*.pdb
+
+
+# Libraries
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+
+*.so
+*.so.*
+*.dylib
+
+# Executables
+
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
